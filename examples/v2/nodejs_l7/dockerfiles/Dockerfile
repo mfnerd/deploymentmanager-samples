@@ -1,4 +1,4 @@
-FROM node:24.4.0-bookworm-slim
+FROM node:24.4.1-alpine3.22
 
 RUN mkdir /var/www/
 ADD service.js /var/www/service.js
