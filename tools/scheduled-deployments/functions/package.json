@@ -9,7 +9,7 @@
   "author": "Google Inc.",
   "license": "Apache-2.0",
   "dependencies": {
-    "@google-cloud/datastore": "^1.0.7",
+    "@google-cloud/datastore": "^2.0.0",
     "async": "^2.5.0",
     "cron-parser": "^2.4.1",
     "describe": "^1.2.0",
